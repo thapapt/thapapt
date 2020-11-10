@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Pradip 🤖
+## Hi 👋 I'm Pradip 🤖
 [![GitHub Badge](https://img.shields.io/github/followers/thapapt?label=follow&style=social)](https://github.com/thapapt)
 
 - 🔭 I’m currently working on my final year project.
