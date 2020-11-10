@@ -1,4 +1,6 @@
 ### Hi there 👋
+[![GitHub Badge](https://img.shields.io/github/followers/thapapt?label=follow&style=social)](https://github.com/thapapt)
+
 My name is Pradip Thapa.
 
 - 🔭 I’m currently working on my final year project.
