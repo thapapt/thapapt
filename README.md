@@ -1,11 +1,10 @@
 ### Hi there 👋
-
-<!--
-**thapapt/thapapt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+My name is Pradip Thapa.
 
 - 🔭 I’m currently working on my final year project.
-- 🌱 I’m currently learning Computer Science
-- 😄 Pronouns:
-- ⚡ Fun fact: I have a good sense of humor
-
+- 🌱 I'm currently a final year student in Aston University.
+- ⚡ Fun fact: 
+  - I have a good sense of humor
+  - Fast learn
+  - Gamer
+  - Curious about the world 
