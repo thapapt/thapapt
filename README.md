@@ -1,7 +1,5 @@
-### Hi there 👋
+## Hi there 👋 I'm Pradip 🤖
 [![GitHub Badge](https://img.shields.io/github/followers/thapapt?label=follow&style=social)](https://github.com/thapapt)
-
-🤖 My name is Pradip Thapa.
 
 - 🔭 I’m currently working on my final year project.
 - 🌱 I'm currently a final year student in [Aston University](https://www.aston.ac.uk/).
